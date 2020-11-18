@@ -1,0 +1,26 @@
+{
+  "name": "cypressautomation",
+  "version": "1.0.0",
+  "description": "Pierwszy projekt ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darthfol/-learning-CyPress.git"
+  },
+  "keywords": [
+    "cypress",
+    "test-automation"
+  ],
+  "author": "Piotr Fol Foltyn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darthfol/-learning-CyPress/issues"
+  },
+  "homepage": "https://github.com/darthfol/-learning-CyPress#readme",
+  "devDependencies": {
+    "cypress": "^5.6.0"
+  }
+}
